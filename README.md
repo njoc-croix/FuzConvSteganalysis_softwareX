@@ -14,7 +14,7 @@ Folders in this project:
 
 	Matlab_codes: 
 	
-	This folder contains two files with one entitled: “My_WOW_main_function.m”. The file includes the codes for data embedding with WOW (steganographic algorithm). The second file is entitled: “WOWupdate.m” which is a main function to run the data embedding.
+	This folder contains two files with one entitled “My_WOW_main_function.m”. The file includes the codes for data embedding with WOW (steganographic algorithm). The second file is entitled “WOWupdate.m” which is a main function to run the data embedding.
 	
 	sampledatasetimagepixels: 
 	
