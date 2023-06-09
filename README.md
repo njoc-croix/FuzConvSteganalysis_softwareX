@@ -16,13 +16,14 @@ Folders in this project:
 	
 	This folder contains two files with one entitled “My_WOW_main_function.m”. The file includes the codes for data embedding with WOW (steganographic algorithm). The second file is entitled “WOWupdate.m” which is a main function to run the data embedding.
 	
-	sampledatasetimagepixels: 
-	
-The sample dataset folder contains 33 image pixels ttwo main subfolders for sample innocent pixels padded, and sample altered pixels padded to work with the model. It is worth noting that the images used in experiment have been got from BOSSBase 1. 01 (http://agents.fel.cvut.cz/boss/index.php?mode=VIEW&tmpl=materials).
-	
 	Numpy_files:
 	
 This folder contains six files in .numpy extension which encompass the sample datasets with their respective labels for training, testing, and validation. 
+	
+      Sampledatasetimagepixels: 
+	
+The sample dataset folder contains 33 image pixels ttwo main subfolders for sample innocent pixels padded, and sample altered pixels padded to work with the model. It is worth noting that the images used in experiment have been got from BOSSBase 1. 01 (http://agents.fel.cvut.cz/boss/index.php?mode=VIEW&tmpl=materials).
+	
 	
 	SRM_Filters:
 	
