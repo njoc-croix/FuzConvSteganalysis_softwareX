@@ -10,18 +10,17 @@ https://www.sciencedirect.com/science/article/pii/S1110866523000336?via%3Dihub a
 
 N. J. De La Croix and T. Ahmad, “Toward secret data location via fuzzy logic and convolutional neural network,” Egyptian Informatics Journal, vol. 24, no. 3, p. 100385, Sep. 2023, doi: 10.1016/j.eij.2023.05.010.
 
-Folders in this project (in the main folder)
+Folders in this project: 
 
 	Matlab_codes: 
 	
 	This folder contains two files with one entitled: “My_WOW_main_function.m”. The file includes the codes for data embedding with WOW (steganographic algorithm). The second file is entitled: “WOWupdate.m” which is a main function to run the data embedding.
-	Python_codes: This folder contains five subfolders, namely, sample_dataset_in_pixels, numpy_files, SRM_Filters, main_file, and Best_trained_model.
-
-	Sample_dataset_in_pixels: 
 	
-The sample dataset folder contains two main subfolders for sample innocent pixels padded, and sample altered pixels padded to work with the model. It is worth noting that each of the subfolders of the sample_dataset contains three subfolders namely, train, test, and valid folders for pixels for training, testing, and validating respectively. The images used in experiment have been got from BOSSBase 1. 01 .
+	sampledatasetimagepixels: 
 	
-	Nump_files:
+The sample dataset folder contains 33 image pixels ttwo main subfolders for sample innocent pixels padded, and sample altered pixels padded to work with the model. It is worth noting that the images used in experiment have been got from BOSSBase 1. 01 (http://agents.fel.cvut.cz/boss/index.php?mode=VIEW&tmpl=materials).
+	
+	Numpy_files:
 	
 This folder contains six files in .numpy extension which encompass the sample datasets with their respective labels for training, testing, and validation. 
 	
@@ -35,7 +34,7 @@ This folder contains a Jupyter notebook entitled “FuzConvTrue” for running t
 	
 	Best_trained_model:
 	
-This folder contains the best model of our trained models with WOW algorithm under the payload size of 0.2bpp.
+This folder contains the best model of our trained models with WOW algorithm under the payload size of 0.1bpp.
 
 
 Requirements to run the code:
