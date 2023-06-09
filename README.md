@@ -1,4 +1,5 @@
 FuzConvSteganalysis: Steganalysis via Fuzzy Logic and Convolutional Neural Network
+
 FuzConvSteganalysis is an innovative software that uses a combination of fuzzy logic and convolutional neural networks to detect hidden information in digital images. It focuses on locative steganalysis, identifying the exact location of concealed data in images. FuzConvSteganalysis employs advanced machine learning techniques, providing a robust tool to uncover covert information hidden in digital images. This software has the potential to prevent the misuse of digital images for data theft and covert communication, enhancing digital security.
 Citing
 If this work is utilized for your research or if you discover value in our long paper with all results, kindly acknowledge the work by including a citation of our long paper at: 
